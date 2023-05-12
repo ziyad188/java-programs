@@ -1,0 +1,5 @@
+Programs are available on src folder.
+this program takes name phone-number and birthdate and find age from birthdate.
+For that i used 
+method LocalDate.now() to get the current date
+period. getYears(); object to find the diffrence between current date and birthdate
