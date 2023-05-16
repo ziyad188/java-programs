@@ -18,8 +18,8 @@ This is a Java-based financial application that demonstrates a three-layer desig
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Navigate to the project directory: `cd your-repository`
+1. Clone the repository: `https://github.com/ziyad188/java-programs/blob/main/Interfrance`
+2. Navigate to the project directory: `cd java-programs/Interfrance`
 3. Compile the Java source files: `javac Main.java`
 4. Run the application: `java Main`
 
